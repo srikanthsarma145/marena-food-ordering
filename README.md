@@ -11,7 +11,7 @@ The web application automates the process of food ordering, thereby making it ea
 #### Technical Description
 
 * An overview of Some of the technologies used in order to build the web application are listed as follows:
-Frontend
+Frontend<br>
 
     • HTML5
     • CSS 3
