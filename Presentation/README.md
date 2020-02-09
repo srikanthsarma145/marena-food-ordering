@@ -1,3 +1,3 @@
 ## Presentation
 
-Powerpoint Presentation for the solution to be uploaded in this sub folder.
+Powerpoint Presentation for the solution uploaded in this sub folder.
