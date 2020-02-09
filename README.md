@@ -10,7 +10,7 @@ The web application automates the process of food ordering, thereby making it ea
 
 #### Architecture Diagram
 
-![GitHub Logo](/presentation/logo.jpg)
+![](/presentation/logo.jpg)
 Format: ![Alt Text](url)
 
 #### Technical Description
