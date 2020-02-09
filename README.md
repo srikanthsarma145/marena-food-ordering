@@ -1,20 +1,17 @@
-## Team Number - Project Name
-
-The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. Please feel free to create further sub-sections in this markdown, the idea is to understand the gist of the components in a singular document.
+## Team Number 54 – Marena Food Ordering Application
 
 ### Project Overview
 ----------------------------------
-
-A brief description of 
-* What problem did the team try to solve
-* What is the proposed solution
+Marena Food Ordering Web Application is designed for members of the college to ease the process of food ordering from Marena by building a web application that lets users simply place an order on the application instead of standing in a queue to order food. Menu and food availability can be easily checked on the web application. 
 
 ### Solution Description
 ----------------------------------
+The web application automates the process of food ordering, thereby making it easier to coordinate between various users involved, such as customer, cook and the manager.The data will be stored in a MongoDB management system.
 
 #### Architecture Diagram
 
-Affix an image of the flow diagram/architecture diagram of the solution
+![GitHub Logo](/presentation/logo.jpg)
+Format: ![Alt Text](url)
 
 #### Technical Description
 
