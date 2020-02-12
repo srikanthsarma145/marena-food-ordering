@@ -1,4 +1,4 @@
-## Team Number 54 – Marena Food Ordering Application
+## Marena Food Ordering Application
 
 ### Project Overview
 ----------------------------------
