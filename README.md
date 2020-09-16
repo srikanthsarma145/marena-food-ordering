@@ -63,4 +63,4 @@ Backend <br>
 | :------------- | :----------: | -----------: |
 | Pranshu Datta | pranshudatta25@gmail.com | Backend Developer |
 | Praveen Raj | praveenraj7@outlook.com | Full Stack Developer |
-| Srikanth Sarma | srikanthsarma280@gmail.com | Frontend Designer |
+| Srikanth Sarma | srikanthsarma145@gmail.com | Frontend Designer |
